@@ -1,0 +1,11 @@
+/home/godnez/Documents/rust-cli/ghttp/target/release/deps/libfutures_channel-2b99dd634d9558d3.rmeta: /home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lib.rs /home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lock.rs /home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/mpsc/mod.rs /home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/mpsc/queue.rs /home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/oneshot.rs
+
+/home/godnez/Documents/rust-cli/ghttp/target/release/deps/libfutures_channel-2b99dd634d9558d3.rlib: /home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lib.rs /home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lock.rs /home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/mpsc/mod.rs /home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/mpsc/queue.rs /home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/oneshot.rs
+
+/home/godnez/Documents/rust-cli/ghttp/target/release/deps/futures_channel-2b99dd634d9558d3.d: /home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lib.rs /home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lock.rs /home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/mpsc/mod.rs /home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/mpsc/queue.rs /home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/oneshot.rs
+
+/home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lib.rs:
+/home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lock.rs:
+/home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/mpsc/mod.rs:
+/home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/mpsc/queue.rs:
+/home/godnez/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/oneshot.rs:
